@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-=======
+
+
 # Version del curso
 Version  Actual: V1.2.2
 
-
->>>>>>> markdown
 # Cabeceras
 
 # Cabecera H1 
