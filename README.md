@@ -1,3 +1,4 @@
+enfasis
 # Cabecera H1 
 ## Cabecera H2 
 ### Cabecera H3
@@ -20,3 +21,5 @@ Underline 2
 -formato **bold o strong** de la primer forma.
 
 -formato __bold o strong__ de la segunda forma.
+
+-formato ~~tachado~~.
